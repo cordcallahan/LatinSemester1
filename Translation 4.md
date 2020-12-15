@@ -18,14 +18,8 @@ B. Questions
 5. Indirect statement
 6. Present passive infinitive of duco
 7. Dative singular Indirect object
-8. And
+8. It means And which is a conjunction
 
 C. Translation
 
-With Achivi he could not capture Troy in ten years, so Epeus made a surprisingly large wooden
-horse. For this those gathered are Menelaus, Ulixes, Diomedes, Thessander, Sthenelus, Acamas,
-Thoas, Machaon, Neoptolemus. And on the horse they wrote, “Minerva give the Greeks a gift”
-translated at camp. When the Trojans saw it, they judged the enemy had gone away. Priamus
-ordered the horse to be led into the temple of Minervae. The prophet Cassandra said the horse
-has enemies within, have faith in her abilites, the horse should not be put in temple. The Greeks
-exited through the door, killed the guards and conquered Troy.
+When the Greeks he couldn't capture Troy for ten years, then Epeus made a surprisingly large wooden horse. In this horse Menelaus, Ulixes, Diomedes, Thessander, Sthenelus, Acamas,Thoas, Machaon, Neoptolemus were gathered. And on the horse they wrote, “Greeks give a gift to Minerva” and moved their camps to the island Tenedos. When the Trojans saw it, they judged the enemy had gone away. Priamus ordered the horse to be led into the temple of Minervae. The prophet Cassandra said the horse had enemies within, trust wasn't given to her, they put the horse in front of the temple. The Greeks exited, killed the guards at the gates and conquered Troy.
