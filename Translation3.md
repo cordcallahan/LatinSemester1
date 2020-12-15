@@ -8,19 +8,18 @@ Surround all the verbs with two asterisks. (These will display as bold text.) Su
 B. Grammatical Questions
 What case is the phrase illō tempōre and why is it in that case? 
 Ablative- This is because it indicates the location at a specific time.  
+  
+1. Verb
+
+2. Athens must be attacked
  
-What part of speech is oppugnandās? 
-  Verb
-What idea does Athenas oppugnandās express? 
-  Athens must be attacked
-Parse (Person, Number, Tense, Mood, Voice) interfectus est. 
-  3rd person, singular, perfect, indicative, passive
-What kind of construction is immolanda est? 
-  Intransitive 
-Parse (Gender, Case, Number) ceterae sorōrēs.
-  Feminine, nominative, plural
-What type of construction is ab fulmine? 
-  Transitive
+3. 3rd person, singular, perfect, indicative, passive
+
+4. Intransitive 
+
+5. Feminine, nominative, plural
+
+6. Transitive
 
 
 C. Translation
