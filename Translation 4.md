@@ -4,20 +4,20 @@ Cum ‘Achīvī’ decem annōs Troiam “capere” nōn possent, ‘Epeus’
 magnitūdinis ligneum “fēcit”. In eō “collēctī sunt” ‘Menelaus, Ulixēs, Diomedes,
 Thessander, Sthenelus, Acamas, Thoas, Machaon, Neoptolemus’. et in equō
 “scripsērunt” “’DANAI’ MINERVAE DONUM “DANT””, castraque “transtulērunt” Tenedo.
-Cum id Troianī “vidērunt”, “arbitrate” sunt ‘hostēs’ “abisse”; ‘Priamus’ “imperāvit”
-‘equum’ in templum Minervae “ducī”. Cum ‘vātēs’, Cassandra, “diceret” ‘equum’ habere
+Cum id Troianī “vidērunt”, “arbitrate” "sunt" ‘hostēs’ “abisse”; ‘Priamus’ “imperāvit”
+‘equum’ in templum Minervae “ducī”. Cum ‘vātēs’, Cassandra, “diceret” ‘equum’ "habere"
 hostes, ‘fidēs’ eī “data non est” et equum pro templō “posuērunt”. ‘Achīvī’
 “exiērunt” portārumque custodēs “occidērunt” et Troiam “sunt potitī”.
 
 B. Questions
 
-1. Accusative Plural for multiple years
-2. Third-person plural imperfect active subjunctive of possum
-3. Subject Danai, Present Tense Verb Dant
-4. Third- person plural perfect indicative passive
-5. Indirect statement
+1. Accusative Plural - multiple years - throught time period
+2. Third-person plural imperfect active subjunctive of possum - circumstances
+3. Subject Danai - Present Tense Verb Dant - Minervae indirect object - Donum direct object
+4. Perfect active indicative - passive form with active meaning
+5. Indirect statement - Priamus imperavit independent - equum in templum minevae duci dependent
 6. Present passive infinitive of duco
-7. Dative singular Indirect object
+7. Dative singular Indirect object - pronoun
 8. It means And which is a conjunction
 
 C. Translation
