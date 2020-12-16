@@ -1,5 +1,5 @@
-present indicative passive
-present subjunctive passive
+- present indicative passive
+- present subjunctive passive
 imperfect indicative passive
 imperfect subjunctive passive
 present subjunctive active
