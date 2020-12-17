@@ -3,7 +3,7 @@ A. Grammatical Analysis
 Olim *Prometheus*, Iapetī fīlius prīmus, hominēs ex lutō **fingēbat**. Simul ‘Vulcānus’ ex lutō fēminam **faciēbat**. *Minerva* huic fēminae animam **dedit** et omnēs *deī* dōna eī **misērunt**. ob id nōmen “Pandōra” ei **datum est**. *Pandōra* ab Iove in coniugium Epimetheō **data est**. Fīlia eōrum **erat** *Pyrrha*, prīma mortālis.
 
 B. Grammatical Questions
-1. Adjectival phrase (?)
+1. Describing Subject
 2. Third person singular imperfect active.   - fingō, fingere=  to shape.
 3. Demonstrative adjective, dative, feminae.
 4. Transitive active sentence, 
