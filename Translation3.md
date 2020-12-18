@@ -7,19 +7,20 @@ Surround all the verbs with two asterisks. (These will display as bold text.) Su
 
 B. Grammatical Questions
 What case is the phrase illō tempōre and why is it in that case? 
-Ablative- This is because it indicates the location at a specific time.  
+
+1.Ablative- This is because it indicates the location at a specific time.  
   
-1. Verb
+2. Verb
 
-2. Athens must be attacked
+3. Athens must be attacked
  
-3. 3rd person, singular, perfect, indicative, passive
+4. 3rd person, singular, perfect, indicative, passive
 
-4. Intransitive 
+5. Intransitive 
 
-5. Feminine, nominative, plural
+6. Feminine, nominative, plural
 
-6. Transitive
+7. Transitive
 
 
 C. Translation
