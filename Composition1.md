@@ -1,5 +1,5 @@
-Luppiter et Lūnō erant rex et regina deorum.
-Mārs et Vulcānus erant filioi Lippiter et Lūnō.
-Luppiter habebat aliud filia Minerva, soror Martis et Veneris.
-Venus erat uxor Vulcānus
-ipsa erat magna dux
+Iupiter et Lūnō erant rex et regina deorum.
+Mārs et Vulcānus erant filii Iovis et Lūnōis.
+Minerva erat filia Iovis et Minerva erat sororis Martis et vulcani.
+Venus erat uxoris Vulcāni.
+ipsa erat magna dux.
