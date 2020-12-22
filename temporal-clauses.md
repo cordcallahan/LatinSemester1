@@ -1,3 +1,5 @@
+**Satisfactory: full credit**
+
 Cum Achivi Troiam capere non possent, equum ligneum fecērunt.  past
 
 Cum Achivi Troiam capere non possent, equum ligneum fecērunt.  subjunctive
