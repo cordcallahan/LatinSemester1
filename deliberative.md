@@ -1,3 +1,6 @@
+**Satisfactory: full credit**
+
+
 1a.Hercules leonem Nemeum necet?
 
 1b.Hercules leonem Nemeum necaret?
@@ -25,4 +28,3 @@
 7a.Augeae regis stercus bouum uno die purget?
 
 7b.Augeae regis stercus bouum uno die purgaret?
-
